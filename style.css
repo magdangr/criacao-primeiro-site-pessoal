@@ -1,0 +1,80 @@
+body {
+    background: #c5e6da;
+    font-family: arial, verdana;
+    max-width: 900px;
+    margin: auto;
+}
+
+.photo_perfil {
+    border-radius: 50px;
+}
+
+#title {
+    color: white;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.subtitle {
+    font-size: 20px;
+    margin-bottom: 25px;
+        color: white;
+        text-align: left;
+}
+
+.post_title {
+    font-size: 35px;
+    color: rgb(36, 156, 255);
+    font-weight: bold;
+    margin: 0;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.post {
+    background: #fff;
+    padding: 15px;
+    border: 1px solid rgba(51, 154, 250, 0.938);
+    margin-bottom: 10px;
+}
+
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+    text-align: justify;
+    }
+
+a {
+    color:black
+}
+
+.post_image {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    }
+
+    .contacts_list li a {
+color:white
+}
+
+.email {
+list-style-image: url("foto-email.png");
+font-size: 15px;
+font-style: italic; 
+font-weight: bold;
+}
+
+.linkedin {
+    list-style-image: url("foto-linkedin.png");
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+    }
+
+    .github {
+    list-style-image: url("foto-github.png");
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+}
